@@ -1,4 +1,4 @@
-# STM32L0x1 Peripheral Access Create
+# STM32L0x1 Peripheral Access Crate
 
 This Peripheral Access Crate for STM32L0x1 chips was auto-generated using the [svd2rust](https://docs.rs/svd2rust) utility. The following commands were used in a new library crate with a `Cargo.toml` file set up according to the documentation:
 
